@@ -1330,7 +1330,7 @@
 						<td><code>2014.05.23.12.12</code></td>
 						<td>≈&nbsp;13.4.1</td>
 						<td>The Dark Sectors<!-- Login screen says "13 The Dark Sectors: Open Beta" --></td>
-						<td>Won't boot if you last booted a recent version. Crashes when trying to revive. Can't abort missions.<!-- Rename dwmapi.dll to wtsapi32.dll or version.dll. --></td>
+						<td>Crashes when trying to revive. Can't abort missions.<!-- Rename dwmapi.dll to wtsapi32.dll or version.dll. --></td>
 						<td>Steam&nbsp;release</td>
 						<td><a href="#7211838851606425341">Download</a></td>
 					</tr>
@@ -1338,7 +1338,7 @@
 						<td><code>2014.05.21.15.02</code></td>
 						<td>≈&nbsp;13.4.0</td>
 						<td>The Dark Sectors<!-- Login screen says "13 The Dark Sectors: Open Beta" --></td>
-						<td>Won't boot if you last booted a recent version.<!-- Rename dwmapi.dll to wtsapi32.dll or version.dll. --></td>
+						<td><!-- Rename dwmapi.dll to wtsapi32.dll or version.dll. --></td>
 						<td>User&nbsp;installation</td>
 						<td><a href="#13.4.0">Download</a></td>
 					</tr>
@@ -1354,7 +1354,7 @@
 						<td><code>2014.04.12.00.54</code></td>
 						<td>≈&nbsp;13.0.4</td>
 						<td>The Dark Sectors<!-- Login screen says "13 The Dark Sectors: Open Beta" --></td>
-						<td>Won't boot if you last booted a recent version.<!-- Has non-English cache files, but with broken fonts. --><!-- Rename dwmapi.dll to wtsapi32.dll or version.dll. --></td>
+						<td><!-- Has non-English cache files, but with broken fonts. --><!-- Rename dwmapi.dll to wtsapi32.dll or version.dll. --></td>
 						<td>User&nbsp;installation</td>
 						<td><a href="#13.0.4">Download</a></td>
 					</tr>
@@ -1385,7 +1385,14 @@
 						<td><a href="#12.1.2">Download</a></td>
 					</tr>
 					<!-- 4190426140757030330 is 2014.02.07.16.15 (~12.0.3), seems to crash -->
-					<!-- 585340885135755161 is 2013.12.21.01.47, seems to crash -->
+					<tr id="585340885135755161">
+						<td><code>2013.12.21.01.47</code></td>
+						<td>≈&nbsp;11.5.4</td>
+						<td>Valkyr Unleashed<!-- Login screen says "11 Valkyr Unleashed: Open Beta" --></td>
+						<td>Needs <a href="supplementals/11.5.4 hacky crash fix.7z" download>hacky crash fix</a>.</td><!-- Rename dwmapi.dll to wtsapi32.dll or version.dll. --></td>
+						<td>Steam&nbsp;release</td>
+						<td><a href="#585340885135755161">Download</a></td>
+					</tr>
 					<tr id="2135033526713381905">
 						<td><code>2013.11.29.16.33</code></td>
 						<td>≈&nbsp;11.1.3</td>
