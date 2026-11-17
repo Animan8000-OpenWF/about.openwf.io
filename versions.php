@@ -95,6 +95,14 @@
 						<td>Steam&nbsp;release</td>
 						<td><a href="#7152156997008129783">Download</a></td>
 					</tr>
+					<tr id="43.0.0" data-magnet="magnet:?xt=urn:btih:592a3ced6f3c843e16475a54796366d0e70730bb&dn=Warframe.2026.06.16.07.07_unpacked&xl=56274323019&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&ws=https%3A%2F%2Farchive.org%2Fdownload%2FWarframe-43.0.0%2F">
+						<td><code>2026.06.16.07.07/RPC<!-- sGoOSAT27+2UxicxMXQ --></code></td>
+						<td>&lt;&nbsp;43.0.0</td>
+						<td>Jade&nbsp;Shadows:&nbsp;Constellations</td>
+						<td><!-- Warframe.x64.exe needs to be dropped onto <a href="https://github.com/Sainan/Sideloadify/releases/latest/download/sideloadify.exe" download>sideloadify.exe</a> --></td>
+						<td>Café&nbsp;release</td>
+						<td><a href="#43.0.0">Download</a></td>
+					</tr>
 					<?php foreach ([
 							"2026.05.13.13.07/k5j"/*Jr3W3pt8Z6zRKrEAl1Q*/ => "42.0.11",
 							"2026.05.06.14.09/nwi"/*cGVuSoowi36KzbnWX7w*/ => "42.0.10",
@@ -169,7 +177,7 @@
 						</tr>
 					<?php endforeach; ?>
 					<tr id="7186674829434135359">
-						<td><code>2025.12.11.08.31</code></td>
+						<td><code>2025.12.11.08.31/0NT<!-- RsGTMGiqPKHCC8gThaA --></code></td>
 						<td>&lt;&nbsp;41.0.2</td>
 						<td>The&nbsp;Old&nbsp;Peace</td>
 						<td><!-- Warframe.x64.exe needs to be dropped onto <a href="https://github.com/Sainan/Sideloadify/releases/latest/download/sideloadify.exe" download>sideloadify.exe</a> --></td>
@@ -190,7 +198,7 @@
 						</tr>
 					<?php endforeach; ?>
 					<tr id="2095600306818101508">
-						<td><code>2025.12.09.14.18</code></td>
+						<td><code>2025.12.09.14.18/gee<!-- K1p938eZsP88Nhl+UrA --></code></td>
 						<td>&lt;&nbsp;41.0.0</td>
 						<td>The&nbsp;Old&nbsp;Peace</td>
 						<td><!-- Warframe.x64.exe needs to be dropped onto <a href="https://github.com/Sainan/Sideloadify/releases/latest/download/sideloadify.exe" download>sideloadify.exe</a> --></td>
@@ -216,12 +224,20 @@
 						</tr>
 					<?php endforeach; ?>
 					<tr id="4384985961440518177">
-						<td><code>2025.10.14.16.10</code></td>
+						<td><code>2025.10.14.16.10/7y0<!-- u3KRAahhqzYCsJ3hdFA --></code></td>
 						<td>&lt;&nbsp;40.0.0</td>
 						<td>The&nbsp;Vallis&nbsp;Undermind</td>
 						<td></td>
 						<td>Steam&nbsp;release</td>
 						<td><a href="#4384985961440518177">Download</a></td>
+					</tr>
+					<tr id="40.0.0" data-magnet="NEED TO INSERT IT HERE">
+						<td><code>2025.10.14.09.16/7y0<!-- u3KRAahhqzYCsJ3hdFA --></code></td>
+						<td>&lt;&nbsp;40.0.0</td>
+						<td>The&nbsp;Vallis&nbsp;Undermind</td>
+						<td></td>
+						<td>Café&nbsp;release</td>
+						<td><a href="#40.0.0">Download</a></td>
 					</tr>
 					<tr id="39.1.3" data-base-manifest="8391191747297658560" data-mega="https://mega.nz/file/8oBnGRqJ#IDvZrtO8Um_WL4_CoU9xOnu3sXes8NTrq28oGv5dWpo" data-magnet="magnet:?xt=urn:btih:e4105678211028bb37a39d71fc4630fb169c71fe&dn=39.1.3.7z&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&ws=https://archive.org/download/OpenWF-Update-Patches/39.1.3.7z">
 						<td><code>2025.09.02.14.13/C1u<!-- uuxHFA5pFWj3h1OydPA --></code></td>
@@ -279,6 +295,14 @@
 						<td>Steam&nbsp;release</td>
 						<td><a href="#6046892458385712496">Download</a></td>
 					</tr>
+					<tr id="38.6.0" data-magnet="NEED TO INSERT IT HERE">
+						<td><code>2025.05.16.19.10</code></td>
+						<td>&lt;&nbsp;38.6.0</td>
+						<td>Yareli&nbsp;Prime<!-- Login screen says "Techrot Encore" --></td>
+						<td></td>
+						<td>Café&nbsp;release</td>
+						<td><a href="#38.6.0">Download</a></td>
+					</tr>
 					<tr id="38.5.11" data-langs="en,ru,uk" data-drivers="dx11,dx12" data-magnet="magnet:?xt=urn:btih:89183353a366d99d6bdac480155a283e0d78b634&dn=38.5.11%20%28en%2C%20ru%2C%20uk%2C%20dx11%2C%20dx12%29&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&ws=https://archive.org/download/Warframe-38.5.11/" data-cat-labels="magnet:?xt=urn:btih:fa6915c393a7edc5f017bd5b62bfc9f77e15443b&dn=cat%20labels%20for%2038.5.11&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce">
 						<td><code>2025.04.15.15.16/wXl<!-- 4NfXQDSLFhnL2fuzMmw --></code></td>
 						<td>=&nbsp;38.5.11</td>
@@ -302,6 +326,14 @@
 						<td></td>
 						<td>Steam&nbsp;release</td>
 						<td><a href="#4212893560910494140">Download</a></td>
+					</tr>
+					<tr id="38.5.0" data-magnet="NEED TO INSERT IT HERE">
+						<td><code>2025.03.14.10.59</code></td>
+						<td>&lt;&nbsp;38.5.0</td>
+						<td>Techrot&nbsp;Encore</td>
+						<td></td>
+						<td>Café&nbsp;release</td>
+						<td><a href="#38.5.0">Download</a></td>
 					</tr>
 					<tr id="38.0.12" data-langs="en" data-drivers="dx11,dx12" data-magnet="magnet:?xt=urn:btih:0cbc3f5d26065d6909536d0e322774fc53e4a91f&dn=38.0.12&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&ws=https://archive.org/download/Warframe-38.0.12/" data-cat-labels="magnet:?xt=urn:btih:fe2c9f14e6aa9b27cf1a67c5b54aafb78dc6ed66&dn=cat%20labels%20for%2038.0.12&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce">
 						<td><code>2025.02.19.16.14/tDP<!-- Tz4THsr61daFWpuxkfQ --></code></td>
@@ -1102,7 +1134,7 @@
 						<td><code>2015.12.09.17.09</code></td>
 						<td>≈&nbsp;18.0.6</td>
 						<td>The&nbsp;Second&nbsp;Dream</td>
-						<td><!-- Rename dwmapi.dll to wtsapi32.dll or version.dll. --></td>
+						<td>Some fonts are broken.<!-- Rename dwmapi.dll to wtsapi32.dll or version.dll. --></td>
 						<td>Steam&nbsp;release</td>
 						<td><a href="#5378301586494814297">Download</a></td>
 					</tr>
@@ -1282,7 +1314,7 @@
 						<td><code>2014.08.28.13.17</code></td>
 						<td>≈&nbsp;14.5.0</td>
 						<td>The Mad Cephalon</td>
-						<td><!-- Rename DLL & -->Needs <a href="https://mega.nz/file/1gAFzTaI#rjrzbZce6zTSprDzc92glCHVlXC55RoFzAcsKeR8VFM" target="_blank">Tools folder from 2015.10.21.12.48</a>.</td>
+						<td>Needs <a href="https://mega.nz/file/1gAFzTaI#rjrzbZce6zTSprDzc92glCHVlXC55RoFzAcsKeR8VFM" target="_blank">Tools folder from 2015.10.21.12.48</a>. Softlocks when trying to upgrade mods.<!-- Rename dwmapi.dll to wtsapi32.dll or version.dll. --></td>
 						<td>Steam&nbsp;release</td>
 						<td><a href="#8779732662024957928">Download</a></td>
 					</tr>
@@ -1290,7 +1322,7 @@
 						<td><code>2014.07.21.18.38</code></td>
 						<td>≈&nbsp;14.0.0</td>
 						<td>The Mad Cephalon</td>
-						<td><!-- Rename DLL & -->Needs <a href="https://mega.nz/file/1gAFzTaI#rjrzbZce6zTSprDzc92glCHVlXC55RoFzAcsKeR8VFM" target="_blank">Tools folder from 2015.10.21.12.48</a>. Nightmare mods don't drop.</td>
+						<td><!-- Rename DLL & -->Needs <a href="https://mega.nz/file/1gAFzTaI#rjrzbZce6zTSprDzc92glCHVlXC55RoFzAcsKeR8VFM" target="_blank">Tools folder from 2015.10.21.12.48</a>. Crashes on login if account was used on a newer version. Nightmare mods don't drop.</td>
 						<td>Steam&nbsp;release</td>
 						<td><a href="#7091405412400346572">Download</a></td>
 					</tr>
@@ -1330,7 +1362,7 @@
 						<td><code>2014.04.10.17.47</code></td>
 						<td>≈&nbsp;13.0.0</td>
 						<td>The Dark Sectors<!-- Login screen says "13 The Dark Sectors: Open Beta" --></td>
-						<td>Everyone is A-posing, making enemies non-threats.<!-- Rename dwmapi.dll to wtsapi32.dll or version.dll. --></td>
+						<td>Won't boot if you last booted a recent version. Everyone is A-posing, making enemies non-threats.<!-- Rename dwmapi.dll to wtsapi32.dll or version.dll. --></td>
 						<td>Steam&nbsp;release</td>
 						<td><a href="#5876704438298513797">Download</a></td>
 					</tr>
@@ -1454,14 +1486,7 @@
 						<td><a href="#6399786153404128119">Download</a></td>
 					</tr>
 					<!-- 5877621706072454395 is 2013.04.25.13.30, missing fonts + script errors -->
-					<tr id="6629234302933135021">
-						<td><code>2013.04.24.11.45</code></td>
-						<td>≈&nbsp;7.8.1</td>
-						<td>Stormbringer<!-- Login screen says "Open Beta - Update 7" --></td>
-						<td><!-- Rename dwmapi.dll to wtsapi32.dll or version.dll. --></td>
-						<td>Steam&nbsp;release</td>
-						<td><a href="#6629234302933135021">Download</a></td>
-					</tr>
+					<!-- 6629234302933135021 is 2013.04.24.11.45 (≈7.8.1), missing fonts + script errors -->
 					<!-- 1241849711849802633 is 2013.04.23.16.17, missing fonts + script errors -->
 					<tr id="1305013661316056540">
 						<td><code>2013.04.19.17.49</code></td>
@@ -1555,7 +1580,7 @@
 						<td><code>2013.03.25.11.45</code></td>
 						<td>≈&nbsp;7.3.0</td>
 						<td>Stormbringer<!-- Login screen says "Open Beta - Update 7" --></td>
-						<td>Foundry is broken.<!-- Rename dwmapi.dll to wtsapi32.dll or version.dll. --></td>
+						<td>Randomly crashes in Star Chart. Foundry is broken.<!-- Rename dwmapi.dll to wtsapi32.dll or version.dll. --></td>
 						<td>Steam&nbsp;release</td>
 						<td><a href="#9176710083987114410">Download</a></td>
 					</tr>
@@ -1592,7 +1617,7 @@
 				<tbody>
 					<tr>
 						<td>200€</td>
-						<td>Pre-7.3.0 Game Files</td>
+						<td>Pre-U7.3 Game Files</td>
 					</tr>
 					<tr>
 						<td>100€</td>
@@ -1600,7 +1625,8 @@
 					</tr>
 				</tbody>
 			</table>
-			<p>Join <a href="https://discord.gg/PNNZ3asUuY" target="_blank">our Discord</a> and read <a href="https://discord.com/channels/1108159019635462206/1108161984253415494/1445095000906924153" target="_blank">this announcement</a> for information on contributing a user installation. If you want to add to these bounties, see <a href="https://discord.com/channels/1108159019635462206/1108161984253415494/1506991338904621088" target="_blank">this announcement</a>.</p>
+			<p>Join <a href="https://discord.gg/PNNZ3asUuY" target="_blank">our Discord</a> and read <a href="https://discord.com/channels/1108159019635462206/1108161984253415494/1445095000906924153" target="_blank">this announcement</a> for information on contributing a user installation.</p>
+			<p>There is another bounty active of 65€ per each broken Pre-U18.2 build getting fixed. If you want to add to these bounties, see <a href="https://discord.com/channels/1108159019635462206/1108161984253415494/1506991338904621088" target="_blank">this announcement</a>.</p>
 			<h3>2013 Warframe</h3>
 			<p>As you're revisiting the earliest versions, some things to note:</p>
 			<ul>
