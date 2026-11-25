@@ -46,6 +46,71 @@
 				<tbody>
 					<!-- https://steamdb.info/depot/230411/manifests/ -->
 					<?php foreach ([
+							"2026.10.28.09.54/8e7"/*dGXr3Omgob8q-e55qeg*/ => "44.1.4.1",
+							"2026.10.27.13.12/rZO"/*afuF0oaOKs8kyoCQgDA*/ => "44.1.4",
+							"2026.10.22.13.12/435"/*2xsmAuTuk8KzkemTuFw*/ => "44.1.3",
+							"2026.10.15.13.08/OnV"/*86L3VUWisG+r6Cy4fQA*/ => "44.1.2.1",
+							"2026.10.14.17.32/LYP"/*OYU33JYKzWJqDM7KT0A*/ => "44.1.2",
+							"2026.10.08.13.05/SdR"/*ueiANEkpjwB7PKcHjcw*/ => "44.1.1",
+							"2026.10.06.16.12/P8s"/*nLk4DRVXumV94ygNBPQ*/ => "44.1.0",
+						] as $buildVersion => $gameVersion): ?>
+						<tr id="<?=$gameVersion;?>" data-base-manifest="3355344869077358827" data-mega="https://mega.nz/file/yHJRBZpI#eCm01rDNNCfwAJouQH58BD4lpn7nKVTPBZgFyyDmHE8" data-magnet="magnet:?xt=urn:btih:2cb03c937402278e53dc7170422800c09cb376b5&dn=44.1.x.7z&xl=1253898002&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&ws=https%3A%2F%2Farchive.org%2Fdownload%2FAniman8000s-Update-Patches%2F44.1.x.7z">
+							<td><code><?=$buildVersion;?></code></td>
+							<td>=&nbsp;<?=$gameVersion;?></td>
+							<td>Iceblade&nbsp;of&nbsp;Narin:&nbsp;The&nbsp;Icebind</td>
+							<td><!-- Warframe.x64.exe needs to be dropped onto <a href="https://github.com/Sainan/Sideloadify/releases/latest/download/sideloadify.exe" download>sideloadify.exe</a> --></td>
+							<td>Update&nbsp;patch</td>
+							<td><a href="#<?=$gameVersion;?>">Download</a></td>
+						</tr>
+					<?php endforeach; ?>
+					<tr id="3355344869077358827">
+						<td><code>2026.10.06.11.44/yWe<!-- 61Et8Lts5rLB+OcvP8A --></code></td>
+						<td>&lt;&nbsp;44.1.0</td>
+						<td>Iceblade&nbsp;of&nbsp;Narin:&nbsp;The&nbsp;Icebind</td>
+						<td><!-- Warframe.x64.exe needs to be dropped onto <a href="https://github.com/Sainan/Sideloadify/releases/latest/download/sideloadify.exe" download>sideloadify.exe</a> --></td>
+						<td>Steam&nbsp;release</td>
+						<td><a href="#3355344869077358827">Download</a></td>
+					</tr>
+					<tr id="44.1.0" data-magnet="magnet:?xt=urn:btih:64100dcae4e65b549ef8eac5408403ff9e487dea&dn=Warframe.2026.10.05.08.16_unpacked&xl=55734852236&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&ws=https%3A%2F%2Farchive.org%2Fdownload%2FWarframe-44.1.0%2F">
+						<td><code>2026.10.05.08.16/yWe<!-- 61Et8Lts5rLB+OcvP8A --></code></td>
+						<td>&lt;&nbsp;44.1.0</td>
+						<td>Iceblade&nbsp;of&nbsp;Narin:&nbsp;The&nbsp;Icebind</td>
+						<td><!-- Warframe.x64.exe needs to be dropped onto <a href="https://github.com/Sainan/Sideloadify/releases/latest/download/sideloadify.exe" download>sideloadify.exe</a> --></td>
+						<td>Café&nbsp;release</td>
+						<td><a href="#44.1.0">Download</a></td>
+					</tr>
+					<?php foreach ([
+							"2026.09.30.14.45/Rc-"/*z7J92eRikCYiXffFybg*/ => "44.0.3",
+							"2026.09.28.13.06/9bg"/*t3wyhtNwhG1cDTBNKhA*/ => "44.0.2",
+							"2026.09.24.13.29/iPo"/*xzHDEw9CQRoHNYCHisg*/ => "44.0.1",
+						] as $buildVersion => $gameVersion): ?>
+						<tr id="<?=$gameVersion;?>" data-base-manifest="3771220686953344229" data-mega="https://mega.nz/file/Kb5mwLgI#UBIU7mt1TZDw5GHra7U-C0qwg-lF3obvj-i2l0mEfQ8" data-magnet="magnet:?xt=urn:btih:8e79e5a5396890343cf200e01c8782545ab93dad&dn=44.0.x.7z&xl=1469944213&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&ws=https%3A%2F%2Farchive.org%2Fdownload%2FAniman8000s-Update-Patches%2F44.0.x.7z">
+							<td><code><?=$buildVersion;?></code></td>
+							<td>=&nbsp;<?=$gameVersion;?></td>
+							<td>Iceblade&nbsp;of&nbsp;Narin</td>
+							<td><!-- Warframe.x64.exe needs to be dropped onto <a href="https://github.com/Sainan/Sideloadify/releases/latest/download/sideloadify.exe" download>sideloadify.exe</a> --></td>
+							<td>Update&nbsp;patch</td>
+							<td><a href="#<?=$gameVersion;?>">Download</a></td>
+						</tr>
+					<?php endforeach; ?>
+					<tr id="3886178187987389038">
+						<td><code>2026.09.23.18.33/hFP<!-- 3tszKRyOnypAVVnoxaw --></code></td>
+						<td>&lt;&nbsp;44.0.1</td>
+						<td>Iceblade&nbsp;of&nbsp;Narin</td>
+						<td><!-- Warframe.x64.exe needs to be dropped onto <a href="https://github.com/Sainan/Sideloadify/releases/latest/download/sideloadify.exe" download>sideloadify.exe</a> --></td>
+						<td>Steam&nbsp;release</td>
+						<td><a href="#3886178187987389038">Download</a></td>
+					</tr>
+					<tr id="44.0.0" data-langs="en" data-drivers="dx11" data-base-manifest="3771220686953344229" data-mega="https://mega.nz/file/Kb5mwLgI#UBIU7mt1TZDw5GHra7U-C0qwg-lF3obvj-i2l0mEfQ8" data-magnet="magnet:?xt=urn:btih:8e79e5a5396890343cf200e01c8782545ab93dad&dn=44.0.x.7z&xl=1469944213&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&ws=https%3A%2F%2Farchive.org%2Fdownload%2FAniman8000s-Update-Patches%2F44.0.x.7z">
+						<td><code>2026.09.22.16.46/rsy<!-- tTB10v64vR64neflfqw --></code></td>
+						<td>=&nbsp;44.0.0</td>
+						<td>Iceblade&nbsp;of&nbsp;Narin</td>
+						<td><!-- Warframe.x64.exe needs to be dropped onto <a href="https://github.com/Sainan/Sideloadify/releases/latest/download/sideloadify.exe" download>sideloadify.exe</a> --></td>
+						<td>Update&nbsp;patch</td>
+						<td><a href="#44.0.0">Download</a></td>
+					</tr>
+					<!-- 3771220686953344229 is 2026.09.21.13.56/yBY7rzFUVUK+VEkDPau2-g, crashes on login attempt. Only used as a base. -->
+					<?php foreach ([
 							"2026.08.19.11.06/Sak"/*CydygO6-qG7S-xI5diQ*/ => "43.5.4",
 							"2026.08.18.13.07/zse"/*38BICcAYrt6BBt4brig*/ => "43.5.3",
 							"2026.08.13.13.24/bbR"/*frQN5Kwqy+c7OSl9pLQ*/ => "43.5.2",
@@ -231,7 +296,7 @@
 						<td>Steam&nbsp;release</td>
 						<td><a href="#4384985961440518177">Download</a></td>
 					</tr>
-					<tr id="40.0.0" data-magnet="NEED TO INSERT IT HERE">
+					<tr id="40.0.0" data-magnet="magnet:?xt=urn:btih:d1b7a904290c8eb2047ec3dfffab38b849415e72&dn=Warframe.2025.10.14.09.16_unpacked&xl=50975976612&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&ws=https%3A%2F%2Farchive.org%2Fdownload%2FWarframe-40.0.0%2F">
 						<td><code>2025.10.14.09.16/7y0<!-- u3KRAahhqzYCsJ3hdFA --></code></td>
 						<td>&lt;&nbsp;40.0.0</td>
 						<td>The&nbsp;Vallis&nbsp;Undermind</td>
@@ -295,7 +360,7 @@
 						<td>Steam&nbsp;release</td>
 						<td><a href="#6046892458385712496">Download</a></td>
 					</tr>
-					<tr id="38.6.0" data-magnet="NEED TO INSERT IT HERE">
+					<tr id="38.6.0" data-magnet="magnet:?xt=urn:btih:f6a49e8bf27ac71a47740a91a593d46f7d5e7506&dn=Warframe.2025.05.16.19.10_unpacked&xl=49680916817&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&ws=https%3A%2F%2Farchive.org%2Fdownload%2FWarframe-38.6.0%2F">
 						<td><code>2025.05.16.19.10</code></td>
 						<td>&lt;&nbsp;38.6.0</td>
 						<td>Yareli&nbsp;Prime<!-- Login screen says "Techrot Encore" --></td>
@@ -327,7 +392,7 @@
 						<td>Steam&nbsp;release</td>
 						<td><a href="#4212893560910494140">Download</a></td>
 					</tr>
-					<tr id="38.5.0" data-magnet="NEED TO INSERT IT HERE">
+					<tr id="38.5.0" data-magnet="magnet:?xt=urn:btih:7ba85487ac82ec5ecc3c932f721383c0c6ea9efb&dn=Warframe.2025.03.14.10.59_unpacked&xl=49523234397&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&ws=https%3A%2F%2Farchive.org%2Fdownload%2FWarframe-38.5.0%2F">
 						<td><code>2025.03.14.10.59</code></td>
 						<td>&lt;&nbsp;38.5.0</td>
 						<td>Techrot&nbsp;Encore</td>
@@ -847,7 +912,14 @@
 						<td>Steam&nbsp;release</td>
 						<td><a href="#1904743723246597237">Download</a></td>
 					</tr>
-					<!-- 174676543101364914 is 2018.11.29.15.55, Fortuna, but has a broken font. -->
+					<tr id="174676543101364914">
+						<td><code>2018.12.18.12.43</code></td>
+						<td>≈&nbsp;24.2.0</td>
+						<td>Fortuna</td>
+						<td>Fonts are broken. Hacky font patch <a href="supplementals/24.2.0 hacky font patch.7z" download>here</a>.</td><!-- Rename dwmapi.dll to wtsapi32.dll or version.dll. --></td>
+						<td>Steam&nbsp;release</td>
+						<td><a href="#174676543101364914">Download</a></td>
+					</tr>
 					<tr id="8040761247114336449">
 						<td><code>2018.11.29.15.55</code></td>
 						<td>≈&nbsp;24.1.2</td>
@@ -1362,7 +1434,7 @@
 						<td><code>2014.04.10.17.47</code></td>
 						<td>≈&nbsp;13.0.0</td>
 						<td>The Dark Sectors<!-- Login screen says "13 The Dark Sectors: Open Beta" --></td>
-						<td>Won't boot if you last booted a recent version. Everyone is A-posing, making enemies non-threats.<!-- Rename dwmapi.dll to wtsapi32.dll or version.dll. --></td>
+						<td>Everyone is A-posing, making enemies non-threats.<!-- Rename dwmapi.dll to wtsapi32.dll or version.dll. --></td>
 						<td>Steam&nbsp;release</td>
 						<td><a href="#5876704438298513797">Download</a></td>
 					</tr>
@@ -1389,7 +1461,7 @@
 						<td><code>2013.12.21.01.47</code></td>
 						<td>≈&nbsp;11.5.4</td>
 						<td>Valkyr Unleashed<!-- Login screen says "11 Valkyr Unleashed: Open Beta" --></td>
-						<td>Needs <a href="supplementals/11.5.4 hacky crash fix.7z" download>hacky crash fix</a>.</td><!-- Rename dwmapi.dll to wtsapi32.dll or version.dll. --></td>
+						<td>Needs <a href="supplementals/11.5.4 hacky crash fix.7z" download>hacky crash fix</a>. Cache date: 2013.12.10.</td><!-- Rename dwmapi.dll to wtsapi32.dll or version.dll. --></td>
 						<td>Steam&nbsp;release</td>
 						<td><a href="#585340885135755161">Download</a></td>
 					</tr>
@@ -1418,7 +1490,14 @@
 						<td><a href="#1764044531028780660">Download</a></td>
 					</tr>
 					<!-- 1734697414845714540 is 2013.09.24.17.38, seems to crash -->
-					<!-- 1806108333186250272 is 2013.08.14.11.28, seems to get stuck loading -->
+					<tr id="1806108333186250272">
+						<td><code>2013.08.14.11.28</code></td>
+						<td>≈&nbsp;9.5.3</td>
+						<td>Vor's&nbsp;Revenge<!-- Login screen says "Open Beta - Update 9" --></td>
+						<td>Needs <a href="supplementals/9.5.3 hacky crash fix.7z" download>hacky crash fix</a>. Cache date: 2013.08.02.</td><!-- Rename dwmapi.dll to wtsapi32.dll or version.dll. -->
+						<td>Steam&nbsp;release</td>
+						<td><a href="#1806108333186250272">Download</a></td>
+					</tr>
 					<!-- 3366147248454027595 is 2013.07.15.20.46 (~9.1.2), asserts due to some missing flash stuff -->
 					<tr id="9.1.0" data-langs="en" data-drivers="dx9" data-magnet="magnet:?xt=urn:btih:2e438360cf4055110b7219f7e584d5308300e4bb&dn=9.1.0%20%28en%2C%20dx9%29&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&ws=https://archive.org/download/Warframe-9.1.0/">
 						<td><code>2013.07.13.03.21</code></td>
