@@ -1394,7 +1394,7 @@
 						<td><code>2014.07.21.18.38</code></td>
 						<td>≈&nbsp;14.0.0</td>
 						<td>The Mad Cephalon</td>
-						<td><!-- Rename DLL & -->Needs <a href="https://mega.nz/file/1gAFzTaI#rjrzbZce6zTSprDzc92glCHVlXC55RoFzAcsKeR8VFM" target="_blank">Tools folder from 2015.10.21.12.48</a>. Crashes on login if account was used on a newer version. Nightmare mods don't drop.</td>
+						<td><!-- Rename DLL & -->Needs <a href="https://mega.nz/file/1gAFzTaI#rjrzbZce6zTSprDzc92glCHVlXC55RoFzAcsKeR8VFM" target="_blank">Tools folder from 2015.10.21.12.48</a>. Crashes on login if account was used on a newer version before. Nightmare mods don't drop.</td>
 						<td>Steam&nbsp;release</td>
 						<td><a href="#7091405412400346572">Download</a></td>
 					</tr>
