@@ -1494,7 +1494,7 @@
 						<td><code>2013.08.14.11.28</code></td>
 						<td>≈&nbsp;9.5.3</td>
 						<td>Vor's&nbsp;Revenge<!-- Login screen says "Open Beta - Update 9" --></td>
-						<td>Needs <a href="supplementals/9.5.3 hacky crash fix.7z" download>hacky crash fix</a>. Cache date: 2013.08.02.</td><!-- Rename dwmapi.dll to wtsapi32.dll or version.dll. -->
+						<td>Can't boot properly. Needs <a href="supplementals/9.5.3 hacky crash fix.7z" download>hacky crash fix</a>. Cache date: 2013.08.02.</td><!-- Rename dwmapi.dll to wtsapi32.dll or version.dll. -->
 						<td>Steam&nbsp;release</td>
 						<td><a href="#1806108333186250272">Download</a></td>
 					</tr>
